@@ -1,1 +1,2 @@
 creo archivo3.txt
+lo borro esto 
